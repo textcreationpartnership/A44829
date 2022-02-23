@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's lamentation, or Her sad estate lamented as also a call to the heads and rulers, and all sorts to repentance, and shewing them the cause why so many disasters, and the judgements of God which are in the earth, and also a way how to remove the same, with an answer to some objections. Through the servant of the Lord, S.H.</title>
+            <author>Hubbersty, Stephen, 1632?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44829</idno>
+            <idno type="STC">Wing H3213</idno>
+            <idno type="STC">ESTC R215979</idno>
+            <idno type="EEBO-CITATION">99827734</idno>
+            <idno type="PROQUEST">99827734</idno>
+            <idno type="VID">32157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1851:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's lamentation, or Her sad estate lamented as also a call to the heads and rulers, and all sorts to repentance, and shewing them the cause why so many disasters, and the judgements of God which are in the earth, and also a way how to remove the same, with an answer to some objections. Through the servant of the Lord, S.H.</title>
+                  <author>Hubbersty, Stephen, 1632?-1711.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.H. = Stephen Hubbersty.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32157:1"/>
+            <pb facs="tcp:32157:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLAND'S</hi> LAMENTATION, Or Her ſad Eſtate Lamented AS ALSO A Call to the Heads and Rulers, and all ſorts to Repentance, and ſhewing them the cauſe why ſo many diſaſters, and the Judgements of God which are in the Earth, and alſo a way how to remove the ſame, with an Anſwer to ſome Ob<g ref="char:EOLhyphen"/>jections.</p>
+            <p>Through the Servant of the Lord, <hi>S. H.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 17.13, 14.</hi>
+               </bibl>
+               <p>The Nations ſhall ruſh like the ruſhing of many Waters, but God ſhall rebuke them, and they ſhall fly a far of, and ſhall be chaſed as the chaffe of the Mountains before the Wind, and like a rowling thing before the Whirle-wind.</p>
+               <p>And behold at evening tide trouble, and before the morning he is not, this is the portion of them that ſpoyle us, and the lot of them that rob us.</p>
+            </q>
+            <p>Printed in the Year 1665.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32157:2"/>
+            <pb facs="tcp:32157:2"/>
+            <head>The Epiſtle to the Reader.</head>
+            <p>FOraſmuch as great and many hath been the ſufferings of Gods People in all ages, and alſo in this very age of ours, great and many and ſore evils hath been acted againſt us, and all this for the Worſhip of God, and for the pure exerciſe of our Conſcience towards him; though great and many things hath been charged againſt us, as of groundleſs jealouſies and ſuſpitions: And to this day we have been and do intend tho<g ref="char:EOLhyphen"/>rough Grace to be kept clear, for our weapons are not carnal but ſpiritual, that ſo as to that we have been ſufficiently try'd, both one way and another; and the God of our life hath ſtill kept us clear that ſo they could have nothing juſtly to charge againſt us, but only and ſingularly for Worſhipping the true and Living God, in the ſpirit and in the truth, for the which we have gone through many and great tryals, even knockings, beatings, ſtone<g ref="char:EOLhyphen"/>ings, whipings, and over and above all this, our ſufferings of late hath been augmented, even to the parting Man and Wife, and Wife from Husband, which is contrary to the bonds of mo<g ref="char:EOLhyphen"/>deſty in matters relating to Religion, and not only this, by way of baniſhment, but in throwing many into Holes, and even in<g ref="char:EOLhyphen"/>to infected Priſons, contrary to your own advice in your Prayer Book, ſo that many hath loſt their lives: and no wonder which is or may be a great Cauſe of ſpreading the Contagion, becauſe we could not have the benefit which nature requireth, and which God affordeth unto Man, and all this we have ſuffered pati<g ref="char:EOLhyphen"/>ently, and filled up the meaſure of the ſufferings of Chriſt in our fleſh, though it hath been to the loſs of many Lives, ſo that all theſe, with many more of the like ſort, which were innume<g ref="char:EOLhyphen"/>rable to mention, we have all borne, and gone through to this
+<pb facs="tcp:32157:3"/>
+day, and we have been perſecuted even, as if <hi>Pharaoh,</hi> and all his Hoſt had been at our heeles, and the God of our life knoweth, and that of God in all Conſciences ſhall one day bear us witneſs, that it is for nothing, but for travelling on our own way to our own Land, and God hath been with us all along with his mighty hand, and with his out-ſtretched Arme, and though they have taken our Bread, and our Water from us, and us from it, yet God hath fed us wonderfully, that ſo oh <hi>England</hi> thou may cleerly ſee the Cauſe of this ſad eſtate of our Native Coun<g ref="char:EOLhyphen"/>try at this day, and I hope and doubt not, that what is herein written, if thou read it with the ſpirit of moderation, but that thou wilt anſwer to it, and the witneſs of God in thee, and if ſo thereby any may come to be reclaimed, and turn from the evil of their wayes, I ſhall rejoyce, or otherwiſe, I have my reward.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32157:3"/>
+            <head>ENGLAND'S LAMENTATION, &amp;c.</head>
+            <p>O <hi>England, England,</hi> thy caſe is ſore lamented, that there ſhould be found in thee ſo much wickedneſs and ungodlineſs that hath ſo provoked the Lord to anger againſt thee; and hath ſtired up his wrath, that ſo unleſs ſpeedy repentance and a returning unto him that hath ſmitten, and doth ſmite daily, there is no hope of recovering nor eſcaping his hand: But his Judgments will ſurely find you all out, and come upon you, if you continue in your wickedneſs, and in provoking the Lord of Hoſts to jealouſie, in your pride, drunkenneſs, and whoredom, and all manner of ſin, againſt the Living God; contrary to the Light and ſpirit of Jeſus; made manifeſt in your mortal fleſh; ye ſhall periſh eternally, for there is no other way for Mankind to come out of thraldom, and the bondage of corruption, (as all men by nature are involved in <hi>Adam</hi> in the fall) but by coming to the true Jeſus the Light of the World, which is the Salvation in which the Nations of them that are ſaved muſt walk, which leads out of all ſin and perſecution,<note place="margin">Revel. 21.24.</note> and envy, which is the cauſe of the wrath of God to come upon a Nation, and this cauſe is come upon thee O <hi>England.</hi>
+            </p>
+            <p>And wo and alaſs, for thee O <hi>England,</hi> the Land of my Nativi<g ref="char:EOLhyphen"/>ty; what art thou become a by-word to other Neighbour Nations; for thy wickedneſs and over and above all this, there is one ſin over and above all the forementioned, and that is <hi>perſecuting men for good Conſcience ſake towards God,</hi> thou O <hi>England</hi> which ſhould be the wiſeſt and the moſt Chriſtian Nation in the World, how foul art thou become guilty of this hainous offence which hath cauſed the jealouſie of God to burn like fire againſt thee; and in this thou exceedeſt all other Nations for wickedneſs; yea, I be<g ref="char:EOLhyphen"/>lieve even amongſt the <hi>Turks</hi> and Heathens one might have more free liberty to exerciſe their Conſcience towards God, then in thee O <hi>England;</hi> and they ſhall be brought in to condemn thee: Oh what cruelty hath been acted by thee againſt thy Inhabitants; Oh what ſpoiling of Goods and Eſtates; Oh what hailing into Priſons, and before Magiſtrates and Rulers, for the Teſtomony of
+<pb n="2" facs="tcp:32157:4"/>
+a good Conſcience, and becauſe we could not pay Tyths, contrary to Goſpel times,<note place="margin">Hebr. 7.12.</note> and the Adminiſtration thereof: And Oh how hath the falſe Prophet for his greedy gain made havock of the people, and even eaten them up, as a man doth eat up bread, and yet the long ſuffering of God hath borne this long, that ſo many people might think that God was not angry with them, or did not regard it at all; for <hi>becauſe Judgment is not ſpeedily executed, therefore is the heart of the wicked ſet to do wickedly;</hi> and therefore becauſe of this is the Judgments of God in the earth: But wo and alaſs for thee O <hi>England,</hi> this ſin is not only found in thee in this particular, but many more, eſpecially one, againſt the Saints of the moſt High, whom God hath loved with an everlaſting love, and whom he will be with, in fire and in water, and will never for<g ref="char:EOLhyphen"/>ſake; and wo be to them from God that hurteth them: And that is this O <hi>England,</hi> perſecuting peaceable People for Meeting toge<g ref="char:EOLhyphen"/>ther peaceably to Worſhip and ſerve the Living God, which is both according to Scripture, and the Liturgy,<note n="*" place="margin">Read in the Com<g ref="char:EOLhyphen"/>munion.</note> which ſaith, <hi>It is our aboundant duty at all times, &amp; in all places</hi> (mark that) <hi>to call upon God, &amp;c.</hi> and the Scripture is ſo full and pregnant in that behalf, that I need ſay little to the proofe of it; for all wiſe men know how that the Saints,<note place="margin">Mat. 5.1. Acts 20.20. Act. 5.42.</note> Apoſtles, and Chriſt Jeſus our Lord himſelf, uſed Prayer or Preaching, ſometime by the Sea ſide, and ſome<g ref="char:EOLhyphen"/>time on the Mountain; and the Apoſtles 'tis evident that they Preach'd the Goſpel in the Temple, and in every Houſe; what is that lawful now to preach the Goſpel in a Houſe? Nay, ſay they; Yes ſaith we, 'tis both agreeable to the Apoſtles Spirit and practiſe and the Liturgy alſo.</p>
+            <p>But wo and alaſs, what ſhall I ſay, my heart is even troubled within me, and my Bowels is even pained to ſee what perſecution of late hath attended the people of God, for this very thing it would fill up a Chronicle, and deſerves to be Chronicled, and is in the Book of Life; Oh what treadings and what ſtampings there hath been, and daily is, of the people of God; and oh what knock<g ref="char:EOLhyphen"/>ings and beating down the peaceable people of the moſt High, for Worſhipping the Lord; no wonder if the Plague be begun, and Gods wrath be gone out againſt his Adverſaries, who hath grum<g ref="char:EOLhyphen"/>bled at us, as you ſay in your Prayer-book, and hath deſpiſed our peaceable Meetings, and worſhip of God it ſelf, no wonder if God ſmite the Nation. And oh what calls and crys hath been from us
+<pb n="3" facs="tcp:32157:4"/>
+the peaceable people of God, even with our lives in our hands, that thou oh <hi>England</hi> might be reconciled to God; but oh how ſtiffe hath thy neck been, and how dull thy ear, and how hard thy heart againſt all reproofe, that even ſo many of thy Inhabitants hath choſen the worſe way, and hath refuſed to be reproved, and would have none of his Councel, when his Meſſengers hath roſe early, and gone late to bed I know to this very end, that thou mighteſt be re<g ref="char:EOLhyphen"/>claimed, who have preached the Goſpel freely unto thee; Oh but many of thy Nation O <hi>Engl.</hi> hath refuſed, and hath hearkned to the dumb hireling that neither can nor never will gather you to God,<note place="margin">Iſa. 56.10, 11.</note> but to themſelves, that they might have their bellies filled; &amp; this is the way of them O <hi>England,</hi> and they have made the World like a Wilderneſs, full of briers and thorns, that ſo the Lambs of Chriſt (who only hears him Chriſt the true Shepherd) can ſcarce go up and down now for the Wolves, though in ſheeps cloathing the Scriptures, which were not given to be made a trade of, but to be fulfilled, which the Saints lives in the life of; for which life ſake in us, we are a ſuffering people at this day.</p>
+            <p>But woe, and alaſs beſide all theſe aforementioned evils inflict<g ref="char:EOLhyphen"/>ed upon our Eſtates and Bodies, not only in treding upon and knocking down, in our peaceable Meetings, but alſo to adde un<g ref="char:EOLhyphen"/>to theſe grievous ſins againſt the Lord, they have not only done ſo, but they have taken the peaceable people of God, and thrown them in Holes and Dungeons, and all this for practiſing that which is as I ſaid before, both according and agreeable to Liturgy and Scripture, 'tis no wonder if the Lord ſend a Plague into the Land, who reſiſts the ſpirit of truth which is according to Scrip<g ref="char:EOLhyphen"/>ture, the juſteſt Authority, which is to be obeyed above all Au<g ref="char:EOLhyphen"/>thorities; for mark, Chriſt is to be the head of the Church,<note place="margin">Col. 1.18.</note> that in all things relating thereunto, he may have the preheminence, as the Husband is to be the head of the Wife, ſo 'tis a vain thing to cauſe people to worſhip contrary to their Conſciences, 'tis but to make people hypocrites, to make people to Worſhip or not to Worſhip, contrary to the work of God and ſpirit of truth in our hearts, who leads us only to Worſhip God in his own way: I ſay unto you all, and that in the name of the Lord, you that are found oppoſers heerin, you ſhall be broken to pieces, for God will have his own way, and not his way ſet out by you, who are in the fallen eſtate, who are miſerable ſinners, as you ſay, how are you
+<pb n="4" facs="tcp:32157:5"/>
+like to preſcribe the way of the pure God, and limit the Holy one to your forme and none elſe; methinks you might ſee your ſelves blind in this thing, for there is a way which no Fowl knoweth, nor which no Vulturs eye hath ſeen, nor Lions Whelp trod in, who are in the uncircumciſed nature, who are miſerable offenders, and doth thoſe things you ought not, &amp;c. and thoſe have never ſeen the way of God, nor know it; what Vulturous eyes hath been in this Nation, that they can ſcarce let a Man go on the ſtreet but they will have a by-word for him; people is ſo full of the venome of Aſpes, even under their tongue, and theſe are not like to pre<g ref="char:EOLhyphen"/>ſcribe wayes for God to be Worſhipped, who are ſo like the Lions Whelp, tearing and rending, and puting people out of the Church before they be got in; nay, but theſe are like the Beaſt and his Followers,<note place="margin">Rev. 13.15.</note> who would compell all both ſmall and great to worſhip him, into the wrong way from the right, this is the Beaſt indeed.</p>
+            <p>And oh what killing hath been this day about Religion and Worſhip, and forcing to or fro to the falſe from the true, and what killing and knocking down in the very ſtreets, as I ſaid before quite contrary and oppoſite to the Apoſtles Doctrine, who ſaith touching Religion,<note place="margin">Phil. 2.3.</note> ſaith he, do nothing by ſtrife but in love and gentleneſs inſtruct, &amp;c. If God will give them repentance to the acknowledgment of the truth,<note place="margin">2 Tim. 2.25.</note> mark that, ye Heads and Rulers of <hi>England,</hi> for God, yea even our God, hath a controverſie with you; and be not proud, for the Lord hath ſpoken, for he can bring down the high and the mighty, and raiſe them of low degree, for them he will exalt, for we have ſeen the mighty abaſed, and the loftineſs of the lofty laid low; and what was the cauſe of this? to wit, ſin and tranſgreſſion, and afflicting the juſt, and limiting the Holy One to their own wayes, which was not Gods way, for Gods wayes is to love enemies, which is the badg and true Cogniſance as you ſay of a Chriſtian, and have you not manifeſted this love of yours what it is, that it is but in word and in tongue, not in deed; for love thinks no evil, love kills not about Religion, and Worſhip, Church and Faith, but your love as I ſaid before, is manifeſt, and the Nations have ſeen it, and the blood of many Martyrs &amp; Saints ſhall be required at your hands, even you the Heads and Rulers of this Nation, who hath drunk the blood of the Saints, and now God is giving you ſomething elſe to drink, and will do even the reward of unrighteouſneſs which you have purchaſed unto your ſelves, who hath deſpiſed both warning and reproofe.</p>
+            <p>
+               <pb n="5" facs="tcp:32157:5"/>Oh <hi>England, England,</hi> that thou wouldſt ſee the cauſe of the Judgment of God in the Earth, and remove the ſame thou migh<g ref="char:EOLhyphen"/>teſt yet be happy, for I know God is as yet ſtriving as I may ſay, with ſome of thy Inhabitants, that if by any means they may re<g ref="char:EOLhyphen"/>turn. Oh I have a word from God in my heart, oh that the King and the Councel might lay it to heart, and that is this, that if any would perſwade thee and thy Nobles, that we who are called <hi>Quakers,</hi> is the cauſe of the Judgment of God in the Earth; I ſay unto thee (in the name of the Lord) believe them not, &amp; ſo to ſtir thee up againſt us to afflict us, the Lord hath not ſpoken by them, for that ſpirit (mark that) in all ages which ſtirred up to perſecute even from <hi>Cain</hi> to this day, was not the ſpirit of Chriſt, but the ſpirit of enmity which God will overthrow.</p>
+            <p>So King <hi>Charles</hi> hearken not to their ſpirit, but to the ſpirit of God in thy heart, which will tell thee if thou be ſerious, thou ſhould love enemies, and not kill them in this cauſe; but we are thy friends and ſeeks thy peace and welfare in that which is ever<g ref="char:EOLhyphen"/>laſting, and ſhews thee and all the World the cauſe and the way how to remove Gods hand and ſore Viſitation off thee and the Land, that is to ſay, to looſe the bands of wickedneſs,<note place="margin">Iſa. 58.6.</note> and to let the oppreſſed go free; this were the only way for thee O King, and all thy ſubordinate Miniſters to obtain to perfect peace with God, and to curb all ſin, and licentiouſneſs, lying, ſwearing, pride, drunkenneſs, and adultery, with many more before named; becauſe of which the Land <hi>mourns.</hi>
+            </p>
+            <p>But wo and alaſs, there is one thing that we muſt require of thee and the Nation, and that will tend to thy peace, and the peace of all men, and that is, Liberty of Conſcience towards God, in matters of Religion, or relating thereunto; how canſt thou and the Nation O King deny us of this ſuperlative privilege which is allowed by Chriſt, and the Apoſtle who ſaid in matters of Reli<g ref="char:EOLhyphen"/>gion,<note place="margin">Rom. 14.5.</note> as every one was perſwaded in his own heart ſo to walk, and did not preach up perſecution and to kill mens lives, that's of an<g ref="char:EOLhyphen"/>other ſpirit, then of Chriſts, who came to ſave mens lives, but left it to the Lord that he might perſwade them that were in er<g ref="char:EOLhyphen"/>ror, the error of their wayes, &amp;c. and ſo we requeſt it of thee O King, and the Heads of this Nation, as you will all anſwer it at the dreadful day of Gods Judgments, to reverſe that law of yours, which you have made for the perſecution of them of tender Con<g ref="char:EOLhyphen"/>ſciences,
+<pb n="6" facs="tcp:32157:6"/>
+and for baniſhing thoſe whom God hath loved, with an everlaſting love, who cannot deny their God for the wrath of men, and for meeting together in the publick Worſhip, to worſhip the Lord in the beauty of Holineſs,<note place="margin">Joh. 1.21, 22, 23, 24</note> for the which ſo many and hainous offences have been committed againſt us, &amp; charged upon us; yet I ſay the God of Heaven bears us witneſs, and the Teſti<g ref="char:EOLhyphen"/>mony of God in all hearts, that we are clear and innocent, and we contain'd for nought but the truth; and we are ſubject to Magi<g ref="char:EOLhyphen"/>ſtracy, which would be charged againſt us, for not being ſubject, but we are either in doing or in ſuffering, and I never knew a <hi>Quaker</hi> that lifted up his hand againſt any man; though as I ſaid before, we have been ſtamped upon as the mire in the ſtreets; and ſo let none ſay we are not ſubject, for in that we cannot do what man requires of us; I ſay we are ſubject in ſuffering the wrath of the wicked, and the Angel of Gods Heavenly preſence hath been and ſtill is with us, to carry his choſen on in all ſufferings for his names ſake, untill the ſuffering of his ſeed be full, and then we know that God will plead our cauſe, and it is at hand; and ſo I ſay to make laws to baniſh men for Worſhipping of God in the Spirit, and praying and ſinging in the Spirit, which is the publick Worſhip ſet up by Chriſt himſelf,<note place="margin">John 4.</note> and to pretend the ſame your ſelves, and to kill and baniſh them who are in the life of the Scrip<g ref="char:EOLhyphen"/>tures, &amp; of the Saints that ſpoke them forth, this is an error indeed.</p>
+            <p>And hear O ye Nations this thing, and eſpecially thee O <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who ſhould have been the glory of them all, how unmerciful<g ref="char:EOLhyphen"/>ly haſt thou uſed the Meſſengers of the moſt High, and what laws hath come out of thee againſt my people ſaith the Lord; ſo that God is beginning to plead with thee O <hi>England,</hi> even above all other Nations, becauſe of thy wicked laws againſt the ſervants of the moſt High, whom God hath loved with an everlaſting love, and on whom his Heavenly Countenance ſhines, and is his onely Jewels, and as dear to him as the apple of his eye: And is this your end and purpoſe, and to throw Men and Women even into infected Priſons for Meeting together in the fear of God, and to worſhip him; oh ſhame and hard heartedneſs, was ever the like in any Nation, hath the like been heard of, ſurely God will require it at your hands; Oh conſider theſe things and weighty cauſes, for God will judge righteouſly, and in the day of Gods Righteous Judgments we ſhall be clear; and this in ſhort, in a word, from
+<pb n="7" facs="tcp:32157:6"/>
+God unto you, If you perſiſt on to do your work of perſecution, and do not deſiſt from, nor change that law which you have made againſt us, you ſhall utterly fall, the Lord hath ſpoken it; and thus the cauſe is truly ſtated, why the Judgments of the Lord is in the Earth; and if you O ye Heads and Rulers would remove the cauſe, the effect might ceaſe, which ſin and perſecution<g ref="char:punc">▪</g> for good Conſcience ſake is the great cauſe, not only naturally in puting people where the Plague is, but ſupernaturally to remove the wrath of the Almighty; Oh therefore be wiſe O ye Kings,<note place="margin">Pſal. 2.10, 11, 12.</note> and be ye inſtructed O ye Judges of the Earth, ſerve the Lord with fear and rejoyce with trembling; kiſs the Son leaſt he be angry with you, and you periſh from the right way; for if his wrath be but kindled a little, bleſſed are all they that put their truſt in him: And oh call in that unrighteous Decree that it may never be heard of in other Nations, (that a Chriſtian Magiſtrate ſhould perſe<g ref="char:EOLhyphen"/>cute and baniſh, and as it were kill his ſubjects, for their Conſci<g ref="char:EOLhyphen"/>ence ſake towards the Lord) and this of a truth from the Lord, is the way to procure the bleſſing and remove the curſe, which ſo long as the contrary is lived in, no bleſſing can ſurely attend the Nation, but God will find all the evil doers out of the earth; and ſo God almighty keep and preſerve all his people pure and holy before him, that you may all be cloathed in white, and have on the Wedding Garment, and be kept innocent and harmleſs before him, ſacrificed up in a clear Conſcience, waiting for his Son from Heaven, who will refreſh all his Children with his Heavenly pre<g ref="char:EOLhyphen"/>ſence, and water them with the dew of Heaven, and your Souls ſhall be ſatisfied as with fatneſs, for the viſitation of the Lord of Hoſts is gone over the Nation, and they who receives not his call, and viſitation of his tender love towards them, but hardens their own hearts; well we muſt leave them to the <hi>Lord,</hi> only to diſ<g ref="char:EOLhyphen"/>charge my duty towards God and all Mankind, I reſt and remain a friend to you all in the bonds of the Covenant of God, waiting for the reſtauration of the Creature out of the bondage of cor<g ref="char:EOLhyphen"/>ruption and ſlavery of ſin into the glorious liberty of the Sons of God, in which I reſt. <hi>S. H.</hi>
+            </p>
+            <p>The occaſion of this was partly in Anſwer to a Book which I have ſeen, wherein they would ſeem to lay the blame or the guilt of the judgment of God upon the innocent, and to let the guilty go free, which may ſerve for an Anſwer to the ſame, and the cauſe more truly and rightly ſtated then they have ſtated it.</p>
+            <p>
+               <pb n="8" facs="tcp:32157:7"/>But if any object and ſay if we be the cauſe of this heavy Judg<g ref="char:EOLhyphen"/>ment of the Lord in this Nation, how is it then that you do ſuffer ſo deeply, and many of you are taken away in it?</p>
+            <p>I anſwer, firſt for theſe reaſons.</p>
+            <p>Firſt, becauſe we did believe, and do believe always that in a common calamity ſuch a one as this is, that the Juſt may ſuffer as well as the unjuſt, though the unjuſt be the inſtrumental cauſe of the ſuffering of the juſt, &amp; God may and doth undoubtedly take the one to himſelf in love, &amp; the other is ſeparated from him in wrath.</p>
+            <p n="2">2ly. Becauſe <hi>Solomon</hi> ſaith, <hi>God taketh away the Righteous with the wicked;</hi> and as the one dieth, ſo dieth the other, though as I ſaid be<g ref="char:EOLhyphen"/>fore, the one in love, the other in wrath.</p>
+            <p n="3">3ly. Becauſe God hath viſited the Nation many years, and hath ſent his Prophets and Meſſengers amongſt them crying, turn ye, turn ye from your evil ways; thus Gods Viſitation hath gone over the Nation, and they who have not received this love of God, but hardned their hearts againſt all reproofe, that ſo it is juſt with the Lord to take away the Righteous with the wicked, that ſo and for this very reaſon, that they might be blinded, and that they might not diſcern the Righteous from the ungodly.</p>
+            <p n="4">4ly. And laſtly we may ſee and 'tis evident that that in <hi>David</hi> where he cauſed <hi>Joab</hi> to number the people, contrary to the com<g ref="char:EOLhyphen"/>mand of God, and there died 70000. and ſaid he, what hath theſe ſheep done? He knew the guilt was in him, for his heart did ſmite him; but ſaid he, let thy hand be upon me and my Fathers Houſe: Thus you may plainly ſee, how that the innocent or ſheep may ſuffer for the tranſgreſſion of others. Thus with many more rea<g ref="char:EOLhyphen"/>ſons which might be given as to that Objection, why we ſuffer in this affliction, or in any common calamity.</p>
+            <p>Though I ſay and do ſtill believe that God hath a remnant that he will preſerve through it to bear witneſs to his name in a greater tryal if it come: And doubtleſs there is yet a Remnant that God will gather to <hi>himſelf,</hi> out of all the falſe ways of the World, and ſandy foundations into the true way of God, and to the true foundation, Chriſt the Rock, the true Light of the World, which abideth one and the ſame for ever.</p>
+            <closer>
+               <signed>S. H.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:32157:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
